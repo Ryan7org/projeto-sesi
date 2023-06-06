@@ -1,0 +1,42 @@
+.corpo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    
+}
+
+.box{
+    
+    float: left;
+    width: 400px;
+  }
+  
+  img{
+    width: 100%;
+  }
+
+.dive{
+    align-items: center;
+}
+
+.equi{
+    float: left;
+    width: 400px;
+    
+  }
+  
+  img{
+    
+    width: 100%;
+  }
+.box2{
+    
+    float: left;
+    width: 400px;
+  }
+  
+  img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
